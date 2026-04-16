@@ -1,0 +1,27 @@
+[submodule "AC-BSP"]
+	path = AC-BSP
+	url = https://github.com/remy941900/AC-BSP.git
+[submodule "AC-DRIVERS"]
+	path = AC-DRIVERS
+	url = https://github.com/remy941900/AC-DRIVERS.git
+[submodule "AC-RTOS"]
+	path = AC-RTOS
+	url = https://github.com/remy941900/AC-RTOS.git
+[submodule "AC-MIDDLEWARE"]
+	path = AC-MIDDLEWARE
+	url = https://github.com/remy941900/AC-MIDDLEWARE.git
+[submodule "AC-ENG"]
+	path = AC-ENG
+	url = https://github.com/remy941900/AC-ENG.git
+[submodule "AC-FCS"]
+	path = AC-FCS
+	url = https://github.com/remy941900/AC-FCS.git
+[submodule "AC-FMS"]
+	path = AC-FMS
+	url = https://github.com/remy941900/AC-FMS.git
+[submodule "AC-COCKPIT"]
+	path = AC-COCKPIT
+	url = https://github.com/remy941900/AC-COCKPIT.git
+[submodule "AC-VV"]
+	path = AC-VV
+	url = https://github.com/remy941900/AC-VV.git
